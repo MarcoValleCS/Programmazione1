@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class EsameC
+{
+    public static void main(String [] args)
+    {
+        String stringa;
+
+        Scanner tastiera =new Scanner (System.in);
+        stringa=tastiera.nextLine()
+    }
+}
